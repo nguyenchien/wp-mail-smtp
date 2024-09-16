@@ -1,4 +1,5 @@
 {
     "name": "stay-gold-ltd/wp-mail-smtp-pro",
-    "type": "wordpress-plugin"
+    "type": "wordpress-plugin",
+    "version": "4.1.1"
 }
